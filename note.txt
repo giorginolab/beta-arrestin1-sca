@@ -1,0 +1,11 @@
+β-arrestin 1 in the inactive conformation
+
+1G4M	P17870	ARRB1_BOVIN
+4JQI	P29066	ARRB1_RAT	(Rattus norvegicus)
+
+They are practically identical
+
+Interpro IPR000698	https://www.ebi.ac.uk/interpro/entry/InterPro/IPR000698/
+
+
+

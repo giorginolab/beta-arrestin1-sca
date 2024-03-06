@@ -1,0 +1,3 @@
+scaProcessMSA -a arrestin.an -d process -i 0
+scaCore -i process/arrestin.db
+scaSectorID -i process/arrestin.db
